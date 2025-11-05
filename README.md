@@ -1,6 +1,5 @@
 # Rian Júnior
 
-[![GitHub](https://img.shields.io/badge/GitHub-release-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/release)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-profile-121212?style=flat-square&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/2282037)
 [![HackingClub](https://img.shields.io/badge/HackingClub-profile-0A0A0A?style=flat-square&logo=data:image/png;base64,iVBORw0KGgo&logoColor=white)](https://app.hackingclub.com/profile/19986)
 [![LeetCode](https://img.shields.io/badge/LeetCode-ceCYF8EV5Z-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/ceCYF8EV5Z/)
