@@ -52,7 +52,7 @@ Apaixonado por tecnologia, vulnerabilidades, exploração e compreensão profund
 
 <p align="center">
   <!-- Main stats | compact and centered -->
-  <img alt="Rian's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=releaseown&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&title_color=ffffff&icon_color=79ff97" width="420" />
+  <img alt="Release GitHub stats" src="https://github-readme-stats.vercel.app/api?username=releaseown&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&title_color=ffffff&icon_color=79ff97" width="420" />
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=releaseown&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=ffffff" width="280" />
 </p>
 
