@@ -13,7 +13,9 @@ Passionate about technology, vulnerabilities, exploitation, and deep system unde
 
 **Red Team** · **Pentest** · **Threat Simulation** · **Threat Hunter**
 
-### **More about me**
+<details>
+
+<summary>More about me</summary>
 
 - Name: Rian Júnior (Release)
 - Country: Brazil / SP
@@ -21,7 +23,7 @@ Passionate about technology, vulnerabilities, exploitation, and deep system unde
 - Web vulnerabilities
 - Automation and tool development
 - Red Team & Threat Simulation methodologies
-
+</details>
 
 
 
